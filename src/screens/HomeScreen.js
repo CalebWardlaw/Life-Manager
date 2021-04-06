@@ -10,5 +10,5 @@ const styles = StyleSheet.create({
     fontSize: 30
   }
 });
-
+// test
 export default HomeScreen;
